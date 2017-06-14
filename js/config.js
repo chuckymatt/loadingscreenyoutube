@@ -10,11 +10,11 @@
 /*URL for the server logo
 Leave it blank to use text instead
 (Put the files in the images folder)*/
-var l_serverImage = "logo.png";
+var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "sleekLoad 2";
+var l_serverName = "Celestial Gaming CWRP|PHASE 2|FAST DL|NEED COMMANDERS|";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
