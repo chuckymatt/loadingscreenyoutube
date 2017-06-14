@@ -14,7 +14,7 @@ var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "Celestial Gaming CWRP|PHASE 2|FAST DL|NEED COMMANDERS|";
+var l_serverName = "Celestial Gaming CWRP|Fast DL|Phase 2|"";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
